@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Alex says Hi
-=======
 Lukas says hi.
->>>>>>> 85f210fd7bdb6bdc6caf8ab873d780525994eafa
